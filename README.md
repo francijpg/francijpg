@@ -1,6 +1,5 @@
 ## Hi there! 👋🏻 
-### I'm Francisco, a software engineer and entrepreneur who enjoys learning and making things happen with the help of technology. More information in [francijpg.com](https://francijpg.com)
----
+#### I'm Francisco, a software engineer and entrepreneur who enjoys learning and making things happen with the help of technology. More information in [francijpg.com](https://francijpg.com)
 
 ![Profile views](https://gpvc.arturio.dev/francijpg) [![Repos Badge](https://badges.pufler.dev/repos/francijpg)](https://badges.pufler.dev) [![Commits Badge](https://badges.pufler.dev/commits/monthly/francijpg)](https://badges.pufler.dev)
 
@@ -33,8 +32,6 @@
 ![Netlify](https://img.shields.io/badge/-Netlify-0d9e9e?style=flat-square&logo=netlify&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
----
 
 ### Github Stats
 ![All Stats](https://github-readme-stats.vercel.app/api?username=francijpg&show_icons=true&include_all_commits=true&count_private=true&hide=contribs) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francijpg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
