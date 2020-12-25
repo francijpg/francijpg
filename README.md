@@ -3,7 +3,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/francijpg) [![Repos Badge](https://badges.pufler.dev/repos/francijpg)](https://badges.pufler.dev) [![Commits Badge](https://badges.pufler.dev/commits/monthly/francijpg)](https://badges.pufler.dev)
 
-- 🌱 I’m currently learning **TypeScript and the React ecosystem**
+- 🌱 I’m currently learning **TypeScript and the React Ecosystem**
 - 🥅 2021 Goals: Be part of a friendly and great IT team
 - ⚡ Fun fact: I love the tranquility and the freedom to learn and create whatever
 - 💬 (Ask me about) => **React, JavaScript, NodeJS, MongoDB**
