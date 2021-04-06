@@ -3,10 +3,10 @@
 
 ![Profile views](https://gpvc.arturio.dev/francijpg) [![Repos Badge](https://badges.pufler.dev/repos/francijpg)](https://badges.pufler.dev) [![Commits Badge](https://badges.pufler.dev/commits/monthly/francijpg)](https://badges.pufler.dev)
 
-- 🌱 I’m currently learning **TypeScript and the React Ecosystem**
+- 🌱 I’m currently learning **React Native** ![Android](https://img.shields.io/badge/-006600?style=flat-square&logo=android)![iOS](https://img.shields.io/badge/-black?style=flat-square&logo=apple)
 - 🥅 2021 Goals: Be part of a friendly and great IT team
 - ⚡ Fun fact: I love the tranquility and the freedom to learn and create whatever
-- 💬 (Ask me about) => **React, JavaScript, NodeJS, MongoDB**
+- 💬 (Ask me about) => **TDD, CI/CD, React, JavaScript, Jest, NodeJS, MongoDB, Firebase**
 
 ---
 ### Technologies
@@ -14,13 +14,16 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Styled-Components](https://img.shields.io/badge/-Styled%20Components-black?style=flat-square&logo=styled-components)
+![Jest](https://img.shields.io/badge/-Jest-05CC47?style=flat-square&logo=jest)
+![React-Testing-Library](https://img.shields.io/badge/-Testing%20Library-black?style=flat-square&logo=testing-library)
 ![SQL](https://img.shields.io/badge/-SQL-B22222?style=flat-square&logo=sql)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) 
 ![NextJS](https://img.shields.io/badge/-Nextjs-black?style=flat-square&logo=next.js) 
 ![Gatsby](https://img.shields.io/badge/-Gatsby-6e0dcf?style=flat-square&logo=gatsby)
-![Gatsby](https://img.shields.io/badge/-Redux/ContextAPI-6600ff?style=flat-square&logo=redux)
+![Redux](https://img.shields.io/badge/-Redux/ContextAPI-6600ff?style=flat-square&logo=redux)
 ![Apollo Client/Server](https://img.shields.io/badge/-Apollo%20Client/Server-311C87?style=flat-square&logo=apollo-graphql)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-006600?style=flat-square&logo=mongodb) 
