@@ -3,7 +3,7 @@
 
 ![My intro gif](./src/images/presentation.gif)
 
-![Profile views](https://gpvc.arturio.dev/francijpg) [![Repos Badge](https://badges.pufler.dev/repos/francijpg)](https://badges.pufler.dev) [![Commits Badge](https://badges.pufler.dev/commits/monthly/francijpg)](https://badges.pufler.dev)
+![Profile views](https://gpvc.arturio.dev/francijpg) [![Repos Badge](https://badges.pufler.dev/repos/francijpg)](https://badges.pufler.dev)
 
 - 🌱 I’m currently learning **React Native** ![Android](https://img.shields.io/badge/-006600?style=flat-square&logo=android)![iOS](https://img.shields.io/badge/-black?style=flat-square&logo=apple)
 - 🥅 2021 Goals: Be part of a friendly and great IT team
