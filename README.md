@@ -1,5 +1,7 @@
-## Hi there! 👋🏻 
-#### I'm Francisco, a software engineer and entrepreneur who enjoys learning and making things happen with the help of technology. More information in [francijpg.com](https://francijpg.com)
+<!-- ## Hi there! 👋🏻 
+#### I'm Francisco, a software engineer and entrepreneur who enjoys learning and making things happen with the help of technology. More information in [francijpg.com](https://francijpg.com) -->
+
+![My intro gif](./src/images/presentation.gif)
 
 ![Profile views](https://gpvc.arturio.dev/francijpg) [![Repos Badge](https://badges.pufler.dev/repos/francijpg)](https://badges.pufler.dev) [![Commits Badge](https://badges.pufler.dev/commits/monthly/francijpg)](https://badges.pufler.dev)
 
